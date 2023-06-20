@@ -1,3 +1,4 @@
+Hi 👋
 <!--
 **codenvibes/codenvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <h1 align="center">Hi 👋, I'm TERRENCE M.K</h1>
 <h3 align="center">A software engineering student from Kenya.</h3>
 
@@ -30,3 +32,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenvibes&show_icons=true&locale=en&layout=compact" alt="codenvibes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenvibes&" alt="codenvibes" /></p>
+-->
