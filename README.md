@@ -7,7 +7,7 @@
     
     🔹I'm working on ERPs and Idea management software🔹
 
-    🔹I’m a huge fan of animated movies and shows. "Pantheon" is my favorite so far🔹
+    🔹I’m a huge fan of animated movies and shows. "Pantheon" is my favorite🔹
   </div>
 
 
