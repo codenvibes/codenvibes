@@ -1,13 +1,12 @@
 <h1 align="center">ABOUT ME:</h1>
   <div align="center">
     
-    🔹I’m from Nairobi in Kenya🔹
+    🔹I’m from Nairobi, Kenya🔹
     
     🔹I’m a Software Engineering student at ALX: Cohort 15🔹 
     
     🔹I'm working on ERPs and Idea management software🔹
 
-    🔹I’m a huge fan of animated movies and shows. "Pantheon" is my favorite🔹
   </div>
 
 
