@@ -60,8 +60,8 @@
 <h3 align="center">GITHUB STATS:</h3>
 
   <div align="center">
-    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenvibes&layout=compact&theme=dark&langs_count=15" />
-    <img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenvibes&theme=dark" alt="codenvibes" />
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenvibes&layout=compact&theme=dark&langs_count=15" />
+    <img width="63.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenvibes&theme=dark" alt="codenvibes" />
   </div>
   
   <p align="center"></p>
