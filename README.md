@@ -48,35 +48,13 @@
     </a>
   </p>
 
+<!--
 <h3 align="center">FRONTEND:</h3>
-  <p align="center">
-  </p>
-
-<!--
 <h3 align="center">BACKEND:</h3>
-  <p align="center">
-
-  </p>
-
 <h3 align="center">MOBILE:</h3>
-  <p align="center">
-
-  </p>
--->
-
 <h3 align="center">DATABASE:</h3>
-  <p align="center">
-  </p>
-
 <h3 align="center">DEVOPS:</h3>
-  <p align="center">
-  </p>
-
-<!--
 <h3 align="center">FRAMEWORK:</h3>
-  <p align="center">
-
-  </p>
 -->
 
 <h3 align="center">OTHER SOFTWARE:</h3>
