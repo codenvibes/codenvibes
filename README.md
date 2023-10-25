@@ -23,7 +23,7 @@
 -->
 <br>
 
-<h3 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/>  LANGUAGES:</h3>
+<h3 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="18"/>  LANGUAGES AND TOOLS:</h3>
   <p align="center">
     <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="65" height="65"/>
@@ -34,16 +34,22 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
     </a>
-  </p>
-
-<h3 align="center">FRONTEND:</h3>
-  <p align="center">
     <a title="html5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/>
     </a>
     <a title="css3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/>
     </a>
+    <a title="mysql" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
+    </a>
+    <a title="bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="65" height="65"/>
+    </a>
+  </p>
+
+<h3 align="center">FRONTEND:</h3>
+  <p align="center">
   </p>
 
 <!--
@@ -60,16 +66,10 @@
 
 <h3 align="center">DATABASE:</h3>
   <p align="center">
-    <a title="mysql" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
-    </a>
   </p>
 
 <h3 align="center">DEVOPS:</h3>
   <p align="center">
-    <a title="bash" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="65" height="65"/>
-    </a>
   </p>
 
 <!--
