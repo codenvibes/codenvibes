@@ -3,6 +3,7 @@ def generate_readme():
     project_number = input("Project Number: ")
     project_title = input("Project Title: ").upper()
     highlights = int(input("Number of highlights: "))
+    concepts = int(input("Number of concepts: "))
     resources_count = int(input("Number of Resources: "))
     objectives_count = int(input("Number of Objectives: "))
     question_count = int(input("Number of Questions: "))
@@ -23,27 +24,32 @@ def generate_readme():
 
         readme.write("\n")
 
-        readme.write("<!-- ## Background Context -->\n\n")
+        if concepts > 0:
+            readme.write("<br>\n\n## Concepts\n")
+            for _ in range(concepts):
+                readme.write('<details>\n<summary><b><a href=" "> </a></b></summary><br>\n\n\n<br><p align="center">※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
+
+        readme.write("<!-- <br>\n\n## Background Context -->\n\n")
 
         if resources_count > 0:
-            readme.write("## Resources\n")
+            readme.write("<br>\n\n## Resources\n")
             for _ in range(resources_count):
                 readme.write('<details>\n<summary><b><a href=" "> </a></b></summary><br>\n\n\n<br><p align="center">※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
             readme.write("\n<!-- **man or help:**\n- `` -->\n\n")
 
         if objectives_count > 0:
-            readme.write("## Learning Objectives\n")
+            readme.write("<br>\n\n## Learning Objectives\n")
             for _ in range(objectives_count):
                 readme.write("<details>\n")
                 readme.write('<summary><b><a href=" "> </a></b></summary><br>\n\n\n')
                 readme.write('<br><p align="center">※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
 
-        readme.write("## Requirements\n")
+        readme.write("<br>\n\n## Requirements\n")
         readme.write("<!-- Add your requirements here -->\n\n")
         readme.write("<!-- ## More Info -->\n\n")
 
         if question_count > 0:
-            readme.write("## Quiz questions\n")
+            readme.write("<br>\n\n## Quiz questions\n")
             for _ in range(question_count):
                 readme.write("<details>\n")
                 readme.write("<summary><h3>Question {}</h3></summary>\n\n".format(_))
@@ -53,7 +59,7 @@ def generate_readme():
         at = 0
 
         if mandatory_task_count > 0:
-            readme.write("## Tasks\n")
+            readme.write("<br>\n\n## Tasks\n")
             for mt in range(mandatory_task_count):
                 readme.write("<details>\n")
                 readme.write("<summary>\n\n### {}. \n".format(mt))
@@ -63,7 +69,7 @@ def generate_readme():
 
         if advanced_task_count > 0:
             if mandatory_task_count == 0:
-                readme.write("## Tasks\n")
+                readme.write("<br>\n\n## Tasks\n")
                 for at in range(advanced_task_count):
                     readme.write("<details>\n")
                     readme.write("<summary>\n\n### {}. \n".format(at))
