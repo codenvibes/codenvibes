@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# AUTH: codenvibes
+# AUTH: codenvibes.
 """
 Script to generate a README.md file template for a project.
 
