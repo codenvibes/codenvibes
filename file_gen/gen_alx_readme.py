@@ -5,8 +5,8 @@ Script to generate a README.md file template for a project.
 
 The script prompts the user for project information such as project number,
 title, highlights, concepts, resources, objectives, questions, mandatory tasks,
-and advanced tasks. It then creates a structured README.md file with placeholders
-for the provided information.
+and advanced tasks. It then creates a structured README.md file with
+placeholders for the provided information.
 
 Usage:
     $ ./gen_alx_readme.py
@@ -43,28 +43,28 @@ def generate_readme():
         if concepts > 0:
             readme.write("<br>\n\n## Concepts\n")
             for _ in range(concepts):
-                readme.write('<details>\n<summary><b><a href=" "> </a></b>\
-                             </summary><br>\n\n\n<br><p align="center">\
-                             ※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
+                readme.write('<details>\n<summary><b><a href=" "> </a></b>')
+                readme.write('</summary><br>\n\n\n<br><p align="center">')
+                readme.write('※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
 
         readme.write("<!-- <br>\n\n## Background Context -->\n\n")
 
         if resources_count > 0:
             readme.write("<br>\n\n## Resources\n")
             for _ in range(resources_count):
-                readme.write('<details>\n<summary><b><a href=" "> </a></b>\
-                             </summary><br>\n\n\n<br><p align="center">\
-                             ※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
+                readme.write('<details>\n<summary><b><a href=" "> </a></b>')
+                readme.write('</summary><br>\n\n\n<br><p align="center">')
+                readme.write('※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
             readme.write("\n<!-- <br>\n\n**man or help:**\n- `` -->\n\n")
 
         if objectives_count > 0:
             readme.write("<br>\n\n## Learning Objectives\n")
             for _ in range(objectives_count):
                 readme.write("<details>\n")
-                readme.write('<summary><b><a href=" "> </a></b>\
-                             </summary><br>\n\n\n')
-                readme.write('<br><p align="center">※※※※※※※※※※※※</p>\
-                             <br>\n</details>\n\n\n')
+                readme.write('<summary><b><a href=" "> </a></b>')
+                readme.write('</summary><br>\n\n\n')
+                readme.write('<br><p align="center">※※※※※※※※※※※※</p>')
+                readme.write('<br>\n</details>\n\n\n')
 
         readme.write("<br>\n\n## Requirements\n")
         readme.write("<!-- Add your requirements here -->\n\n")
