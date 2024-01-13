@@ -47,7 +47,9 @@ def generate_readme():
                 readme.write('</summary><br>\n\n\n<br><p align="center">')
                 readme.write('※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
 
-        readme.write("<!-- <br>\n\n## Background Context -->\n\n")
+        readme.write("<!-- <br>\n\n## Background Context -->\n\n\n")
+
+        readme.write("<!-- <br>\n<hr>\n<h3><a href=" ">Notes</a></h3>\n<hr> -->\n\n")
 
         if resources_count > 0:
             readme.write("<br>\n\n## Resources\n")
@@ -55,7 +57,7 @@ def generate_readme():
                 readme.write('<details>\n<summary><b><a href=" "> </a></b>')
                 readme.write('</summary><br>\n\n\n<br><p align="center">')
                 readme.write('※※※※※※※※※※※※</p><br>\n</details>\n\n\n')
-            readme.write("\n<!-- <br>\n\n**man or help:**\n- `` -->\n\n")
+            readme.write("<!-- <br>\n\n**man or help:**\n- `` -->\n\n")
 
         if objectives_count > 0:
             readme.write("<br>\n\n## Learning Objectives\n")
@@ -68,7 +70,8 @@ def generate_readme():
 
         readme.write("<br>\n\n## Requirements\n")
         readme.write("<!-- Add your requirements here -->\n\n")
-        readme.write("<!-- ## More Info -->\n\n")
+
+        readme.write("<!-- <br>\n\n## More Info -->\n\n")
 
         if question_count > 0:
             readme.write("<br>\n\n## Quiz questions\n")
