@@ -12,7 +12,8 @@ def generate_password(length=None):
     Generates a random password of the specified length.
 
     Args:
-    - length (int): The length of the password to generate. If not provided, the user will be prompted to enter a length.
+    - length (int): The length of the password to generate.
+      If not provided, the user will be prompted to enter a length.
 
     Returns:
     - str: The generated password.
@@ -21,7 +22,8 @@ def generate_password(length=None):
         length = int(input("Enter `password length: "))
         characters = string.ascii_letters + string.digits + string.punctuation
         password = "".join(random.choice(characters) for _ in range(length))
-        return(password)
+        return (password)
+
 
 password = generate_password()
 print(password)
