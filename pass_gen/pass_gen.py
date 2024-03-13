@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # AUTH: codenvibes
 """
 This script generates a random password of the specified length.
