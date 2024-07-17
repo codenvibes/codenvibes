@@ -3,9 +3,9 @@
     
     🔹I’m from Nairobi, Kenya🔹
     
-    🔹I’m a Software Engineering student at ALX: Cohort 15🔹 
+    🔹I’m a Software Engineering student at ALX🔹 
     
-    🔹I'm working on ERPs and Idea management software🔹
+    🔹I'm working on a learning tool to improve retention🔹
 
   </div>
 
@@ -75,8 +75,10 @@
 <h3 align="center">GITHUB STATS:</h3>
 
   <div align="center">
-    <img width="31.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenvibes&layout=compact&theme=dark&langs_count=15" />
-    <img width="64%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenvibes&theme=dark" alt="codenvibes" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenvibes&layout=compact&theme=dark&langs_count=15" />
+  </div>
+  <div align="center">
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenvibes&theme=dark" alt="codenvibes" />
   </div>
   
   <p align="center"></p>
