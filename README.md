@@ -2,9 +2,7 @@
   <div align="center">
     
     🔹I’m from Nairobi, Kenya🔹
-    
-    🔹I’m a Software Engineering student at ALX🔹 
-    
+       
     🔹I'm working on a learning tool to improve retention🔹
 
   </div>
