@@ -20,7 +20,7 @@
   </div>
 -->
 <br>
-
+<!--
 <h3 align="center">LANGUAGES AND TOOLS:</h3>
   <p align="center">
     <a title="C" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -45,7 +45,7 @@
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="65" height="65"/>
     </a>
   </p>
-
+-->
 <!--
 <h3 align="center">FRONTEND:</h3>
 <h3 align="center">BACKEND:</h3>
@@ -54,7 +54,7 @@
 <h3 align="center">DEVOPS:</h3>
 <h3 align="center">FRAMEWORK:</h3>
 -->
-
+<!--
 <h3 align="center">OTHER SOFTWARE:</h3>
   <p align="center">
     <a title="git" href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -67,7 +67,7 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="65" height="65"/>
     </a>
   </p>
-
+-->
 <br>
 
 <h3 align="center">GITHUB STATS:</h3>
