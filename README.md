@@ -67,9 +67,9 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="65" height="65"/>
     </a>
   </p>
--->
-<br>
 
+<br>
+-->
 <h3 align="center">GITHUB STATS:</h3>
 
   <div align="center">
