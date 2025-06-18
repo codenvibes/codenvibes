@@ -1,4 +1,4 @@
-<h1 align="center">ABOUT ME:</h1>
+<h1 align="center">HI!</h1>
   <div align="center">
     
     🔹I’m from Nairobi, Kenya🔹
