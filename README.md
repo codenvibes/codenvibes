@@ -76,7 +76,7 @@
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenvibes&layout=compact&theme=dark&langs_count=15" />
   </div>
   <div align="center">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenvibes&theme=dark" alt="codenvibes" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codenvibes&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
   </div>
   
   <p align="center"></p>
