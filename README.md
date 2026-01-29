@@ -78,7 +78,7 @@
   </div>
   -->
   <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codenvibes&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codenvibes&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
   </div>
   
   <p align="center"></p>
