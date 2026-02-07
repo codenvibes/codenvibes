@@ -70,16 +70,16 @@
 
 <br>
 -->
-<h3 align="center">GITHUB STATS:</h3>
+<!-- <h3 align="center">GITHUB STATS:</h3> -->
 
   <!--
   <div align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenvibes&layout=compact&theme=dark&langs_count=15" />
   </div>
   -->
-  <div align="center">
+  <!-- <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=codenvibes&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
-  </div>
+  </div>-->
   
   <p align="center"></p>
 
